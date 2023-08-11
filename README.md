@@ -1,3 +1,5 @@
+#This repository is for adding my own studies without changing the original repository 
+
 # Applied Geospatial Data Science with Python		
 
 <a href="https://www.packtpub.com/product/applied-geospatial-data-science-with-python/9781803238128?utm_source=github&utm_medium=repository&utm_campaign=9781803238128"><img src="https://static.packt-cdn.com/products/9781803238128/cover/smaller" alt="Applied Geospatial Data Science with Python" height="256px" align="right"></a>
