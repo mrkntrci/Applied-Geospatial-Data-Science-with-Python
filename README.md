@@ -1,4 +1,4 @@
-#This repository is for adding my own studies without changing the original repository 
+# This repository is for adding my own studies without changing the original repository 
 
 # Applied Geospatial Data Science with Python		
 
